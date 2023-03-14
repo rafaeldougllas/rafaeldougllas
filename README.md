@@ -17,7 +17,7 @@ I also has experience in projects with Android (Kotlin and Java), React Native, 
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/rafaeldougllas/rafaeldougllas/blob/main/imgs/devAvatarRafael.png?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/rafaeldougllas/rafaeldougllas/blob/main/imgs/devAvatarRafael.png?width=676&height=676">
 </div>
 
 ##
